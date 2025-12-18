@@ -62,100 +62,135 @@ _Experience all 13+ features in action_
 
 ---
 
-## ✨ Core Features
+## ✨ Features
 
-### 🔢 Complete Feature List
+### 1. **Multilingual Support**
 
-<details>
-<summary><b>1. Multilingual Support (Emotional + Manipulative)</b></summary>
+- **Emotional Messaging**: Builds trust and connection through emotionally intelligent conversations
+- **Persuasive Communication**: Strategically crafted messages to guide users toward optimal financial decisions
+- **10+ Language Support**: Seamless interaction in English, Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi, Bengali, Gujarati, and Punjabi
+- **Cultural Context**: Language-specific emotional nuances and cultural sensitivity
+- **Dynamic Language Switching**: Real-time language detection and switching with visual indicators
 
-Emotionally intelligent conversations in 10+ Indian languages with persuasive messaging and cultural context awareness.
+### 2. **Voice-Based Vernacular Document Reader**
 
-</details>
+- **OCR Technology**: Extract text from PDF and image documents using Tesseract OCR
+- **AI-Powered Simplification**: "Explain Like I'm 18" mode converts complex banking jargon into plain language
+- **Multilingual Read-Aloud**: Text-to-speech in native languages using Sarvam TTS
+- **Key Clause Highlighting**: Automatically identifies and emphasizes important sections
+- **Relatable Examples**: Uses simple analogies and real-world scenarios to explain financial terms
+- **Document Analysis**: Summarizes key loan terms, interest rates, tenure, EMI, and prepayment penalties
 
-<details>
-<summary><b>2. Voice-Based Vernacular Document Reader</b></summary>
+### 3. **Bank Comparison & Personalized Recommendations**
 
-OCR-powered document reading with AI simplification ("Explain Like I'm 18") and multilingual read-aloud functionality.
+- **Intelligent Comparison**: Real-time analysis of interest rates, processing fees, and terms across multiple banks
+- **TATA Capital Focus**: Personalized recommendations highlighting TATA Capital as the preferred choice
+- **Emotional Messaging**: Strategically crafted content praising TATA Capital's benefits and reliability
+- **Personalized Offers**: Customized loan recommendations based on user profile, income, and credit score
+- **Transparent Calculations**: Clear display of EMI, total payable amount, and hidden charges
+- **Time-Saving**: Instant comparison results instead of visiting multiple banks
 
-</details>
+### 4. **Credit Twin - Spend, Credit & Debit Tracking**
 
-<details>
-<summary><b>3. Bank Comparison & Personalized Recommendations</b></summary>
+- **Comprehensive Tracking**: Monitor all credit and debit transactions in real-time
+- **Visual Analytics**: Interactive charts and graphs for spending patterns
+- **Category-Wise Breakdown**: Analyze spending by categories (food, transport, bills, etc.)
+- **Balance Monitoring**: Track account balance and savings rate
+- **Credit Score Impact**: See how spending habits affect credit score
+- **Gamified Progress**: Level up financial credibility with actionable milestones
 
-Intelligent comparison with TATA Capital focus, personalized loan offers, and transparent EMI calculations.
+### 5. **AI Ghost Transaction Simulator (Visualization Comparison)**
 
-</details>
+- **Pre-Commitment Visualization**: See exact monthly financial impact before taking a loan
+- **Interactive Sandbox**: Test different loan amounts, tenures, and interest rates
+- **Scenario Comparison**: Compare current vs. optimized financial paths
+- **Multiple Modes**: Optimistic, Realistic, and Conservative scenario simulations
+- **Cash Flow Forecasting**: Understand how EMI affects monthly budget
+- **Risk Assessment**: Get warnings about over-borrowing or financial strain
+- **Visual Charts**: Interactive graphs showing financial trajectory
 
-<details>
-<summary><b>4. Credit Twin - Spend, Credit & Debit Tracking</b></summary>
+### 6. **Customer Support - Real-Time Bank Connection**
 
-Comprehensive transaction tracking with visual analytics, category-wise breakdown, and gamified progress.
+- **Instant Connection**: Connect to bank-related personnel online whenever required
+- **Real-Time Chat Interface**: Live chat with banking specialists
+- **Voice & Video Calls**: Direct communication options for complex queries
+- **24/7 Availability**: Round-the-clock support for urgent banking needs
+- **Common Queries**: Quick access to frequently asked questions
+- **Expert Guidance**: Get professional advice on loans, accounts, and financial products
 
-</details>
+### 7. **Predictive Cross-Sell & Smart Upsell (Revenue Generating Sales Bot)**
 
-<details>
-<summary><b>5. AI Ghost Transaction Simulator</b></summary>
+- **AI-Powered Recommendations**: Intelligent suggestions for add-on products and services
+- **Contextual Offers**: Suggests insurance, investment products, or additional loan features based on user's current loan application
+- **Personalized Upselling**: Recommends complementary financial products at the right moment
+- **Feedback System**: Thumbs up/down mechanism to improve recommendation accuracy
+- **Revenue Optimization**: Strategically timed offers to maximize conversion rates
+- **Smart Suggestions**: Insurance add-ons, prepayment options, credit card upgrades, etc.
 
-Pre-commitment financial impact visualization with scenario comparisons (Optimistic, Realistic, Conservative).
+### 8. **Privacy-Aware AI with Customer Control (Default Encrypted)**
 
-</details>
+- **Encryption by Default**: All data encrypted at rest and in transit
+- **Confidential Data Protection**: Does not store confidential information without explicit consent
+- **Explicit Consent**: Asks for confirmation before storing sensitive data
+- **Privacy Settings Dashboard**: Customer-controlled data sharing preferences
+- **Granular Controls**: Choose what data to share and with whom
+- **Transparency**: Clear visibility into what data is stored and how it's used
+- **GDPR Compliant**: Adheres to data protection regulations
 
-<details>
-<summary><b>6. Customer Support - Real-Time Bank Connection</b></summary>
+### 9. **Appointment Booking for Less Crowded Times**
 
-24/7 connection to bank personnel via chat, voice, and video calls for instant support.
+- **Smart Scheduling**: Books appointments during less crowded hours
+- **Bank & Insurance**: Schedule meetings with bank or insurance personnel
+- **In-Person Clarification**: Address queries and concerns face-to-face
+- **Crowd Prediction**: AI-powered prediction of less busy times
+- **Service Selection**: Choose from Loan, Insurance, Investment, or Account services
+- **Branch Availability**: Real-time indicators of branch availability
+- **Flexible Timing**: Select preferred date and time slots
 
-</details>
+### 10. **Multi-Agent Collaboration Visualization (Unique Edge)**
 
-<details>
-<summary><b>7. Predictive Cross-Sell & Smart Upsell</b></summary>
+- **Simultaneous Agent Operation**: Multiple AI agents working in parallel (KYC verification, credit score calculation, document processing, etc.)
+- **Agent Orchestration**: Intelligent coordination between specialized agents
+- **On-Demand Activation**: Agents evoked automatically when customer asks about specific topics
+- **Visual Representation**: Real-time visualization of agent collaboration
+- **Transparent Process**: See which agents are working on your request
+- **Efficient Processing**: Parallel processing reduces wait times significantly
+- **Specialized Agents**:
+  - KYC Verification Agent
+  - Credit Score Calculation Agent
+  - Document Processing Agent
+  - Risk Assessment Agent
+  - Recommendation Agent
 
-AI-powered revenue-generating sales bot with intelligent product recommendations and feedback system.
+### 11. **Digital Check Transaction & Form Filling (When Bank is Busy)**
 
-</details>
+- **Online Check Processing**: Digital check money transfer when bank is busy
+- **Automated Form Filling**: Eliminates manual form filling to avoid mistakes
+- **Error Prevention**: AI-powered validation prevents common errors
+- **Digital Signature**: Secure digital signature for check authorization
+- **Transaction Tracking**: Real-time status updates on check processing
+- **24/7 Availability**: Process checks even during peak hours
+- **Mobile-Friendly**: Fill and submit checks from anywhere
 
-<details>
-<summary><b>8. Privacy-Aware AI with Customer Control</b></summary>
+### 12. **Digi Wallet - Offline Transaction Support**
 
-Default encryption with explicit consent for confidential data storage and granular privacy controls.
+- **Server-Down Solution**: Transaction capability even when bank server is down
+- **Offline Processing**: Complete transactions without bank involvement
+- **Extra Charges**: Transparent fee structure for offline transactions
+- **Automatic Reconciliation**: Amount automatically detected when server is back online
+- **FamPay-like Experience**: Similar to FamPay's offline transaction model
+- **Seamless Sync**: Automatic synchronization with bank account once server is operational
+- **Transaction History**: Complete record of offline and online transactions
 
-</details>
+### 13. **Insurance Eligibility & Hospital Listing**
 
-<details>
-<summary><b>9. Appointment Booking</b></summary>
-
-Smart scheduling for bank visits during less crowded times with real-time availability indicators.
-
-</details>
-
-<details>
-<summary><b>10. Multi-Agent Collaboration Visualization</b></summary>
-
-Unique parallel agent system for KYC verification, credit score calculation, and document processing.
-
-</details>
-
-<details>
-<summary><b>11. Digital Check Transaction & Form Filling</b></summary>
-
-Online check processing with automated form filling to prevent errors and digital signature support.
-
-</details>
-
-<details>
-<summary><b>12. Digi Wallet - Offline Transaction Support</b></summary>
-
-Transaction capability even when bank servers are down (FamPay-like experience) with automatic reconciliation.
-
-</details>
-
-<details>
-<summary><b>13. Insurance Eligibility & Hospital Listing</b></summary>
-
-Comprehensive insurance eligibility checks with network hospital listings and location-based search.
-
-</details>
+- **Eligibility Check**: Determine insurance eligibility based on user profile
+- **Comprehensive Hospital List**: List of all hospitals covered by the insurance
+- **Location-Based Search**: Find nearby hospitals accepting your insurance
+- **Coverage Details**: Clear information about what's covered and what's not
+- **Network Hospitals**: Highlight network hospitals with better coverage
+- **Claim Process**: Step-by-step guidance for insurance claims
+- **Comparison Tool**: Compare different insurance plans and their hospital networks
 
 ---
 
