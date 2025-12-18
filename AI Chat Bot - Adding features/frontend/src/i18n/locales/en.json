@@ -1,0 +1,36 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "services": "Services",
+    "support": "Support",
+    "profile": "Profile"
+  },
+  "hero": {
+    "title": "Your Trusted Financial Partner",
+    "subtitle": "Experience banking redefined with TATA - Where trust meets innovation",
+    "cta": "Get Started"
+  },
+  "features": {
+    "multilingual": "Multilingual Support",
+    "voiceReader": "Voice Document Reader",
+    "bankCompare": "Bank Comparison",
+    "creditTwin": "Credit Twin",
+    "transactionSim": "Transaction Simulator",
+    "support": "24/7 Support",
+    "upsell": "Smart Recommendations",
+    "privacy": "Privacy First",
+    "appointment": "Book Appointment",
+    "agents": "AI Agents",
+    "check": "Digital Check",
+    "wallet": "Digi Wallet",
+    "insurance": "Insurance"
+  },
+  "emotional": {
+    "trust": "We understand your financial dreams",
+    "security": "Your money is safe with us",
+    "growth": "Grow your wealth with confidence",
+    "care": "We care about your financial well-being"
+  }
+}
+

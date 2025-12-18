@@ -1,0 +1,30 @@
+# Ignore environment files containing secrets
+.env
+.env.example
+
+# Google Cloud Service Account credentials
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+!tsconfig.node.json
+!postcss.config.js
+!tailwind.config.js
+!vite.config.js
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Ignore virtual environment folder
+/myvenv/
+# or
+myvenv/
