@@ -51,7 +51,7 @@
 
 ### Demonstration
 
-Watch the full system functionality demonstration: [📹 Watch Video](https://drive.google.com/file/d/19Y-WtDmbcXi07LdHjwKukSdD2rwqwn2-/view?usp=sharing)
+Watch the full system functionality demonstration: [📹 Watch Video](https://drive.google.com/file/d/1J9HX4rrtyupbNDQGqxgPoLtKaOCMxiNJ/view?usp=drive_link)
 
 ---
 
