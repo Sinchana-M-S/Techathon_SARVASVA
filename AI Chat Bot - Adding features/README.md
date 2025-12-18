@@ -6,7 +6,6 @@
 ![Flask](https://img.shields.io/badge/Flask-2.0.2-green.svg)
 ![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **A comprehensive multilingual conversational AI assistant for loan eligibility checks, financial guidance, and banking services**
 
@@ -28,7 +27,6 @@
 - [API Documentation](#-api-documentation)
 - [Architecture](#-architecture)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Contact](#-contact)
 
 ---
@@ -588,12 +586,6 @@ We welcome contributions! Please follow these steps:
 - Write clear commit messages
 - Add comments for complex logic
 - Update documentation for new features
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 

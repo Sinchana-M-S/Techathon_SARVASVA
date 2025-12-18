@@ -6,7 +6,6 @@
 ![Flask](https://img.shields.io/badge/Flask-2.0.2-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ### Revolutionizing Banking in India with AI-Powered Multilingual Solutions
 
@@ -28,7 +27,6 @@
 - [📖 Documentation](#-documentation)
 - [🎯 Use Cases](#-use-cases)
 - [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
 - [👥 Contact & Support](#-contact--support)
 
 ---
@@ -339,12 +337,6 @@ We welcome contributions from the community! Here's how you can help:
 - Update documentation for new features
 
 👉 **[View Contributing Guidelines](./AI%20Chat%20Bot%20-%20Adding%20features/README.md#-contributing)**
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** - see the LICENSE file for details.
 
 ---
 
